@@ -1,6 +1,7 @@
 ﻿### Ignore files
 
 Pipfile.lock
+poetry.lock
 pyproject.toml
 
 ### Local project config ###

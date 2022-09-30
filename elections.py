@@ -5,9 +5,9 @@ import dash_bootstrap_components as dbc
 import pandas as pd
 import plotly.express as px
 
-data = pd.read_csv('data/politics.csv')
+# data = pd.read_csv('data/politics.csv')
 #you can also read your data like this:
-# data = pd.read_csv('/home/charmingdata1/demo-app3/politics.csv')
+data = pd.read_csv('https://raw.githubusercontent.com/Projects-Marcus-Mariano/Deploy-Dash-PythonAnyWhere/main/data/politics.csv')
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 # server = app.server
