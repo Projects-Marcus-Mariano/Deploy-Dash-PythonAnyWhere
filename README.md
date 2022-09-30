@@ -1,6 +1,6 @@
-# Detector-Automatizado-Outliers
+# Deploy_Dash_PythonAnyWhere
 
-Full project for Machine Learning real-world: 'DETECTOR AUTOMATIZADO DE OUTLIERS' (ciência dos dados) by Marcus Mariano
+Full project for Machine Learning real-world: 'Deploy Dashboard to PythonAnyWhere' (ciência dos dados) by Marcus Mariano
 
 
 **For more information about Marcus Mariano: [Web site](https://marcusmariano.github.io/mmariano/)**  
@@ -21,7 +21,7 @@ Contents
 
 ## Introduction
 
-Identify and Outliers in Data- from YouTube Channel: Ciencia dos Dados.
+Create a Dashboard with python, dash and plotly and deploy in PythonAnyWhere.
 
 **DETECTOR AUTOMATIZADO DE OUTLIERS: ciência dos dados [YouTube](https://www.youtube.com/watch?v=WH6_pWe2_r0&t=52s)**
 
@@ -29,8 +29,10 @@ Identify and Outliers in Data- from YouTube Channel: Ciencia dos Dados.
 
 
 - Packages
-    - Numpy
-    - scipy
+    - Pandas
+    - Dash
+    - plotly
+    - dash-bootstrap-components
 
 - Dev-packages
 
@@ -61,7 +63,7 @@ poetry install
 ```python
 
 # run app 
-poetry run python dash_super.py
+poetry run python elections.py
 
 ```
 
