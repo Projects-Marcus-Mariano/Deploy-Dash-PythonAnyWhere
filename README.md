@@ -63,7 +63,7 @@ poetry install
 ```python
 
 # run app 
-poetry run python elections.py
+poetry run python country.py
 
 ```
 
