@@ -23,7 +23,7 @@ Contents
 
 Create a Dashboard with python, dash and plotly and deploy in PythonAnyWhere.
 
-**DETECTOR AUTOMATIZADO DE OUTLIERS: ciência dos dados [YouTube](https://www.youtube.com/watch?v=WH6_pWe2_r0&t=52s)**
+**Deploy your App with PythonAnywhere and Dash Plotly [YouTube](https://www.youtube.com/watch?v=WOWVat5BgM4&t=1423s)**
 
 - Builtins
 
